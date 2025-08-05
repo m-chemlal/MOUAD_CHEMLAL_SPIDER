@@ -15,7 +15,8 @@
 
 ⚡ Fun fact: I love diving into CTF competitions and exploring the latest cybersecurity tools and techniques in my spare time!
 
- 
+ <img src="https://tryhackme-badges.s3.amazonaws.com/mchemlal.png" alt="Your Image Badge" />
+
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
