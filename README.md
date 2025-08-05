@@ -15,11 +15,7 @@
 
 ⚡ Fun fact: I love diving into CTF competitions and exploring the latest cybersecurity tools and techniques in my spare time!
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3206408" style='border:none;'></iframe>
-<div align="center">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3206408" style='border:none;' alt="mouad" />
-</div>
-
+ 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
