@@ -19,7 +19,7 @@
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/binary/achemlal" alt="achemlal's 42 stats" />
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3206408" style='border:none;' alt="mouad" />
+    <img src="https://badge.mediaplus.ma/binary/achemlal" style='border:none;' alt="mouad" />
   </a>
 </div>
 
