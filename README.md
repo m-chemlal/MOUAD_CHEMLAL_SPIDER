@@ -17,9 +17,7 @@
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3206408" style='border:none;'></iframe>
 <div align="center">
-  <a href="https://github.com/oakoudad/badge42">
     <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3206408" style='border:none;' alt="mouad" />
-  </a>
 </div>
 
 # 💻 Tech Stack:
