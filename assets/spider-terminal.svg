@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="338" viewBox="0 0 1200 338" role="img" aria-label="SPIDER interactive style terminal, animated scan and cursor">
+<title>SPIDER terminal | whoami | now | links</title>
+<defs><linearGradient id="tb" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#100b26"/><stop offset="1" stop-color="#24133d"/></linearGradient><linearGradient id="bar"><stop stop-color="#9456ff"/><stop offset="1" stop-color="#58dfff"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="336" rx="18" fill="url(#tb)" stroke="#7453bb" stroke-width="2"/>
+<path d="M 1 56 V 18 Q 1 1 18 1 H 1182 Q 1199 1 1199 18 V 56 Z" fill="#241937"/>
+<circle cx="31" cy="29" r="8" fill="#ff7b82"/><circle cx="57" cy="29" r="8" fill="#ffc36a"/><circle cx="83" cy="29" r="8" fill="#69dcb8"/>
+<text x="600" y="35" font-family="monospace" text-anchor="middle" font-size="17" fill="#c4b5fd">spider@1337 — security console</text>
+<rect x="23" y="75" width="4" height="242" fill="url(#bar)" opacity=".75"/>
+<g font-family="monospace" font-size="21">
+<text x="53" y="112" fill="#91ebd6">spider@linux:~$ <tspan fill="#e9e3ff">whoami</tspan></text>
+<text x="53" y="146" fill="#e2d8ff">Mouad Chemlal · Cybersecurity Engineering Student</text>
+<text x="53" y="184" fill="#91ebd6">spider@linux:~$ <tspan fill="#e9e3ff">cat focus.txt</tspan></text>
+<text x="53" y="217" fill="#b5dbff">[ SOC + SIEM ] [ Threat Hunting ] [ Cloud Security ]</text>
+<text x="53" y="249" fill="#b5dbff">[ C + Unix ]   [ Security Automation ] [ AI Security ]</text>
+<text x="53" y="287" fill="#91ebd6">spider@linux:~$ <tspan fill="#e9e3ff">_</tspan></text>
+</g>
+<rect x="279" y="269" width="13" height="23" fill="#ddc5ff"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.49;.5;1" dur="1.05s" repeatCount="indefinite"/></rect>
+<rect x="37" y="307" width="1140" height="2" fill="#a78bfa" opacity=".16"/><rect x="37" y="307" width="160" height="2" fill="url(#bar)" opacity=".76"><animate attributeName="x" from="-160" to="1200" dur="7s" repeatCount="indefinite"/></rect>
+<text x="1112" y="287" font-family="monospace" fill="#ad99d9" font-size="13">UTF-8 / zsh</text>
+</svg>

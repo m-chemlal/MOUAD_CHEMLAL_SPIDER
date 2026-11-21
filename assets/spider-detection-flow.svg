@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="148" viewBox="0 0 1200 148" role="img" aria-label="Animated security operations activity strip">
+<title>Detection pipeline | Collect, Detect, Investigate, Respond</title>
+<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#ede9fe"/><stop offset="1" stop-color="#e0f2fe"/></linearGradient><linearGradient id="line"><stop stop-color="#9f67ec"/><stop offset="1" stop-color="#35b9e1"/></linearGradient></defs><rect width="1200" height="148" rx="20" fill="url(#b)"/>
+<g fill="none" stroke="#c4b5fd" stroke-width="2"><path d="M 215 75 H 322 M 469 75 H 577 M 727 75 H 836 M 981 75 H 1110"/></g>
+<g fill="#fff" stroke="#af90f5" stroke-width="2"><rect x="30" y="32" width="185" height="87" rx="16"/><rect x="322" y="32" width="147" height="87" rx="16"/><rect x="577" y="32" width="150" height="87" rx="16"/><rect x="836" y="32" width="145" height="87" rx="16"/></g>
+<g fill="#4d2780" font-family="Verdana,sans-serif" font-weight="bold" font-size="18" text-anchor="middle"><text x="122" y="72">COLLECT</text><text x="395" y="72">DETECT</text><text x="652" y="72">TRIAGE</text><text x="908" y="72">RESPOND</text></g>
+<g fill="#7861a9" font-family="monospace" font-size="11" text-anchor="middle"><text x="122" y="94">Sysmon / Elastic</text><text x="395" y="94">ES|QL / Wazuh</text><text x="652" y="94">SOC analysis</text><text x="908" y="94">Automation</text></g>
+<g fill="#8b5cf6" opacity=".8"><circle cx="220" cy="75" r="6"><animate attributeName="cx" from="215" to="322" dur="2.1s" repeatCount="indefinite"/></circle><circle cx="476" cy="75" r="6"><animate attributeName="cx" from="469" to="577" dur="2.1s" begin=".4s" repeatCount="indefinite"/></circle><circle cx="735" cy="75" r="6"><animate attributeName="cx" from="727" to="836" dur="2.1s" begin=".8s" repeatCount="indefinite"/></circle><circle cx="990" cy="75" r="6"><animate attributeName="cx" from="981" to="1110" dur="2.1s" begin="1.2s" repeatCount="indefinite"/></circle></g>
+<text x="1111" y="80" font-size="28" fill="#713cb4">✦</text>
+</svg>

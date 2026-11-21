@@ -1,31 +1,73 @@
-<div align="center">
+<!-- SPIDER | animated SVG profile | no raster image assets -->
+<p align="center">
+  <img src="./assets/spider-neon-pulse.svg" width="100%" alt="SPIDER animated neon wave banner" />
+</p>
 
-# 💫 About Me:
-👋 Hi, I’m Mouad Chemlal, a student with a diploma in Computer Engineering (DUT) from EST Fkih Ben Saleh, and currently pursuing an engineering degree in Cybersecurity, specializing in "Sécurité IT et Confiance Numérique" at ENSIASD Taroudant. I’m passionate about emerging technologies, programming, and solving complex security challenges. My academic background and technical training have provided me with a strong foundation in IT and cybersecurity.
+<p align="center">
+  <a href="https://github.com/m-chemlal"><strong>GitHub</strong></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/m-chemlal/"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/m-chemlal/1337_codings_school_projects"><strong>1337 / 42 Projects</strong></a>
+</p>
 
-👀 During my studies, I’ve developed solid skills in system and network security, and in programming languages like Java, PHP, C, and C++. I’m always looking for opportunities to apply and expand my knowledge through real-world projects and technical challenges.
+<p align="center">
+  <img src="./assets/spider-terminal.svg" width="100%" alt="SPIDER animated terminal introduction" />
+</p>
 
-🌱 I’m currently focusing on advanced cybersecurity topics such as ethical hacking, digital forensics, cryptography, and trusted systems.
+### `01 / About the operator`
 
-💞️ I’m looking to collaborate on innovative, security-oriented projects and software development initiatives.
+I'm **Mouad Chemlal (SPIDER)**, a **5th-year cybersecurity engineering student at ENSIASD Taroudant**, specializing in **Sécurité IT et Confiance Numérique**. I hold a **DUT in Génie Informatique** from **EST Fkih Ben Salah** and study **C, Unix and software engineering at 1337 Coding School (42 Network)**.
 
-📫 How to reach me: You can contact me via email or connect with me on my socials!
+I focus on **SOC engineering, threat detection, security automation, systems and cloud security** — with growing interest in **AI security**.
 
-😄 Pronouns: He/Him
+<p align="center"><img src="./assets/spider-detection-flow.svg" width="100%" alt="Animated detection pipeline from log collection through response" /></p>
 
-⚡ Fun fact: I love diving into CTF competitions and exploring the latest cybersecurity tools and techniques in my spare time!
+### `02 / Orbital stack`
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/mchemlal.png" alt="Your Image Badge" />
+<p align="center"><img src="./assets/spider-tech-sphere.svg" width="100%" alt="Rotating SPIDER tech sphere — C, Python, Elastic, Wazuh, Docker, Linux and cloud security" /></p>
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-</div>
+| Detection & SOC | Systems & programming | Cloud & automation |
+|:--|:--|:--|
+| Elastic Stack · Kibana · ES\|QL · Sysmon · Winlogbeat · Wazuh · MITRE ATT&CK | C · Python · JavaScript · Linux · Windows Server · Active Directory · Git | Docker · GCP · MQTT · n8n (notifications) · scikit-learn |
+
+### `03 / Field projects`
+
+| Project | Engineering notes |
+|:--|:--|
+| **Threat Hunting Lab** | Windows/AD + Sysmon + Winlogbeat + Elastic Stack; ES\|QL queries and MITRE ATT&CK mapping for security event investigations |
+| **SOC & Alert Prioritization** | Wazuh + Elastic SOC prototype; Python/scikit-learn alert prioritization and n8n notification automation |
+| **IoMT Mini SOC** | Python, Docker, MQTT and Google Cloud lab for simulated connected-device security monitoring |
+| **[1337 Coding School projects](https://github.com/m-chemlal/1337_codings_school_projects)** | C, Unix and problem-solving exercises; repository is being organized |
+
+<sub>Some internship/lab source code is not publicly available.</sub>
+
+### `04 / GitHub activity telemetry`
+
+<!-- Generated by lowlighter/metrics after running .github/workflows/activity-pulse.yml -->
+<p align="center"><img src="./metrics.activity.svg" width="100%" alt="GitHub Activity Pulse generated from real GitHub data by GitHub Actions" /></p>
+
+<sub>The Activity Pulse appears after configuring `METRICS_TOKEN` and successfully running the workflow. No activity data is fabricated.</sub>
+
+### `05 / Contribution snake`
+
+<!-- Generated by Platane/snk; the output branch exists after the first successful workflow run. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-chemlal/m-chemlal/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-chemlal/m-chemlal/output/snake.svg" />
+  <img alt="Animated GitHub contribution snake moving across my real contributions" src="https://raw.githubusercontent.com/m-chemlal/m-chemlal/output/snake.svg" width="100%" />
+</picture>
+
+### `06 / Current trajectory`
+
+**ENSIASD Taroudant** · 5th year, IT Security & Digital Trust · expected 2027  
+**1337 Coding School** · 42 Network · since 2026  
+**EST Fkih Ben Salah** · DUT, Génie Informatique · 2022–2024
+
+Working toward **SOC / Detection Engineering**, **Cloud Security**, and **AI Security**, with a strong foundation in Unix and C.
+
+<p align="center">
+  <b>Open to a 6-month cybersecurity PFE starting January 2027</b><br/>
+  <a href="https://www.linkedin.com/in/m-chemlal/">LinkedIn</a> ·
+  <a href="https://github.com/m-chemlal">GitHub</a>
+</p>
+
+<sub>Visual inspiration: <a href="https://github.com/beydemirfurkan/awesome-github-profile">beydemirfurkan/awesome-github-profile</a> — Neon Pulse Banner, Typewriter Intro, Tech Sphere, Activity Pulse, and Snake Eat Graph. SVG artwork is customized for SPIDER.</sub>
